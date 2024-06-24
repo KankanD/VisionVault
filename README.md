@@ -10,5 +10,6 @@ Hey I'm Kankan Dastidar, an IT Undergrad. This is one of my personal projects, a
 
 ### Demo
 
-![image](https://github.com/KankanD/VisionVault/assets/141005322/9f1e032c-4783-427b-9b2c-60060605b6ff)
+![image](https://github.com/KankanD/VisionVault/assets/141005322/1b2b4f1a-00ab-4b5d-8389-860bc67b0041)
+
 
